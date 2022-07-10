@@ -44,5 +44,6 @@ indraPluginPublishing {
     project.description,
     listOf("blossom", "replacement", "tokens")
   )
+  pluginIdBase("cl.franciscosolis")
   website("https://github.com/Im-Fran/blossom")
 }
