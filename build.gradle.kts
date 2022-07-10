@@ -29,7 +29,7 @@ indra {
     target(8)
     testWith(8, 11, 16)
   }
-  github("KyoriPowered", "blossom")
+  github("Im-Fran", "blossom")
 }
 
 license {
@@ -38,11 +38,11 @@ license {
 
 indraPluginPublishing {
   plugin(
-    "blossom",
+    "blossom-extended",
     "net.kyori.blossom.Blossom",
-    "blossom",
+    "blossom-extended",
     project.description,
-    listOf("blossom", "replacement")
+    listOf("blossom", "replacement", "tokens")
   )
-  website("https://github.com/KyoriPowered/blossom")
+  website("https://github.com/Im-Fran/blossom")
 }
