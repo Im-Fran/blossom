@@ -7,7 +7,7 @@ plugins {
   id("net.kyori.indra.checkstyle")
 }
 
-group = "net.kyori"
+group = "cl.franciscosolis"
 version = "1.3.1"
 description = "Gradle plugin for performing source code token replacements in Java, Kotlin, Scala, and Groovy based projects"
 
@@ -44,6 +44,5 @@ indraPluginPublishing {
     project.description,
     listOf("blossom", "replacement", "tokens")
   )
-  pluginIdBase("cl.franciscosolis")
   website("https://github.com/Im-Fran/blossom")
 }
