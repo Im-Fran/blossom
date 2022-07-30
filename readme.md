@@ -1,4 +1,4 @@
-blossom [![Build Status](https://img.shields.io/github/checks-status/Im-Fran/blossom/master?label=build)](https://github.com/Im-Fran/blossom/actions) [![License](https://img.shields.io/badge/license-LGPL_v2.1-lightgrey.svg?style=flat)][LGPL v2.1] [![Gradle Plugin](https://img.shields.io/maven-metadata/v/https/plugins.gradle.org/m2/cl/franciscosolis/blossom-extended/maven-metadata.xml.svg?label=gradle%20plugin&style=flat)](https://plugins.gradle.org/plugin/cl.franciscosolis.blossom-extended)
+blossom [![Build Status](https://img.shields.io/github/checks-status/Im-Fran/blossom/master?label=build)](https://github.com/Im-Fran/blossom/actions) [![License](https://img.shields.io/badge/license-LGPL_v2.1-lightgrey.svg?style=flat)][LGPL v2.1] [![Gradle Plugin](https://img.shields.io/gradle-plugin-portal/v/cl.franciscosolis.blossom-extended)](https://plugins.gradle.org/plugin/cl.franciscosolis.blossom-extended)
 =========
 blossom is a Gradle plugin for performing source code token replacements in Java, Kotlin, Scala, and Groovy based projects. It is licensed under the [LGPL v2.1] license.
 
